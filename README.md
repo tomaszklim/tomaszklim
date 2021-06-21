@@ -1,4 +1,3 @@
-
 ### Hi there 👋
 
 <img align="right" src="https://avatars.githubusercontent.com/u/11279221?v=4" width="260">
@@ -62,8 +61,10 @@ Planter (also known as [Harry](https://payload.pl/harry/) or Dirty Harry) is an 
 - [serverfarmer/sf-thermal-utils](https://github.com/serverfarmer/sf-thermal-utils) - read CPU temperature on various computer architectures, including Raspberry Pi and clones, QNAP devices, and many others
 
 
-### 🔭 Projects supporting face recognition
+### 🔨 Other projects that might be interesting
 
+- [erpekspert/optima-integrator-przyklady](https://github.com/erpekspert/optima-integrator-przyklady) - integration solution between PHP applications and polish Comarch ERP Optima sales management system (linked repository containts example client code, actual solution is closed source/commercial)
+- [tomaszklim/klim-framework](https://github.com/tomaszklim/klim-framework) - my old PHP framework, mainly focused on connecting with many databases; still used in some of my commercial projects
 - [pisecurity/opencv-manager](https://github.com/pisecurity/opencv-manager) - scripts for compiling OpenCV (including contrib modules and OpenVINO support) on Raspberry Pi and other ARM platforms (see [releases](https://github.com/pisecurity/opencv-manager/releases) for details)
 - [pisecurity/phpopencv-manager](https://github.com/pisecurity/phpopencv-manager) - scripts for compiling [php-opencv](https://github.com/php-opencv/php-opencv) on ARM platforms
 
@@ -88,4 +89,3 @@ Want me to implement a specific feature for you? Custom extensions or payloads f
 - Twitter: https://twitter.com/PayloadPl
 - LinkedIn: https://www.linkedin.com/in/tomaszklim/
 - Email: opensource@tomaszklim.pl
-
