@@ -67,6 +67,7 @@ Planter (also known as [Harry](https://payload.pl/harry/) or Dirty Harry) is an 
 - [tomaszklim/klim-framework](https://github.com/tomaszklim/klim-framework) - my old PHP framework, mainly focused on connecting with many databases; still used in some of my commercial projects
 - [pisecurity/opencv-manager](https://github.com/pisecurity/opencv-manager) - scripts for compiling OpenCV (including contrib modules and OpenVINO support) on Raspberry Pi and other ARM platforms (see [releases](https://github.com/pisecurity/opencv-manager/releases) for details)
 - [pisecurity/phpopencv-manager](https://github.com/pisecurity/phpopencv-manager) - scripts for compiling [php-opencv](https://github.com/php-opencv/php-opencv) on ARM platforms
+- [payloadpl/stylometria](https://github.com/payloadpl/stylometria) - attempts to recreate real stylometric tools used by polish police (see [more in polish language](https://payload.pl/stylometria-policja/))
 
 
 ### 📜 Published articles
