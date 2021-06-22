@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<img align="right" src="https://avatars.githubusercontent.com/u/11279221?v=4" width="260">
-
 Welcome on my Github summary page! I work in IT for almost 25 years. Previously I worked for big global companies like Wikia or Allegro Group. Since 2013, I run my own company. Below you'll find some of my projects.
 
+&nbsp;
 
-### 👷 Drive Badger
+<img src="https://drivebadger.com/images/custom/logo-full-for-light-bg.png" width="260">
 
+&nbsp;
 [Drive Badger](https://drivebadger.com/) in an open source platform for covert data exfiltration operations, ranging from small computers to big servers, supporting any version of Windows, Linux and Mac OS, also with Bitlocker, LUKS or Apple FileVault full disk encryption.
 
 Written in 2020 strictly for law enforcement officers, private investigators, corporate Red Teams etc. (see [legal details](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(legal))), as cold attack complement to my closed source [Sherlock](https://payload.pl/sherlock/) platform.
@@ -18,7 +18,7 @@ Written in 2020 strictly for law enforcement officers, private investigators, co
 - [drivebadger/bitlocker-demo](https://github.com/drivebadger/bitlocker-demo) - example repository showing how to configure Bitlocker keys
 
 
-### 👷 Server Farmer
+<img src="https://serverfarmer.org/assets/custom/logo.png" width="260">
 
 [Server Farmer](https://serverfarmer.org/) is a framework for server management, created around January 2008 and still maintained. Technically, quite similar to Ansible. Business-wise, something completely different, written specifically for small software houses with multiple customers.
 
@@ -30,16 +30,22 @@ Written in 2020 strictly for law enforcement officers, private investigators, co
 - [serverfarmer/sm-farm-manager](https://github.com/serverfarmer/sm-farm-manager) - inventory and management tools
 - [serverfarmer/sf-ip-allocs](https://github.com/serverfarmer/sf-ip-allocs) - includable lists of IP address ranges allocated for several ISPs, mainly from Poland - you can use it separately, as a part of your custom firewall script
 
+&nbsp;
 
-### 👷 Zone Manager
 
-Central DNS/DHCP database with replication to Amazon Route53, BIND, MikroTik routers and other DNS services. Created in 2016 (initially as an internal tool meeting HIPAA requirements for some commercial project) and still maintained.
+<img src="https://i2.wp.com/payload.pl/wp-content/uploads/2021/06/zonemanager-transparent-320px.png" >
+
+&nbsp;
+Zone Manager is a central DNS/DHCP database with replication to Amazon Route53, BIND, MikroTik routers and other DNS services. Created in 2016 (initially as an internal tool meeting HIPAA requirements for some commercial project) and still maintained.
 
 - [zonemanager/zonemanager](https://github.com/zonemanager/zonemanager)
 
+&nbsp;
 
-### 👷 Polynimbus
 
+<img src="https://raw.githubusercontent.com/polynimbus/polynimbus/master/docs/logo.png" width="300">
+
+&nbsp;
 [Polynimbus](https://polynimbus.it/) is a multi-cloud infrastructure management tool, supporting over 10 major cloud providers. In short it does 2 things: provides an unified API to create and manage VM instances, and provides a web panel with inventory on all connected accounts. Created in 2015 and still maintained.
 
 - [polynimbus/polynimbus](https://github.com/polynimbus/polynimbus) - main repository (to be run on the server with credentials for all connected cloud accounts)
@@ -48,6 +54,8 @@ Central DNS/DHCP database with replication to Amazon Route53, BIND, MikroTik rou
 
 
 ### 🔨 Projects related to Raspberry Pi and similar boards
+
+<img align="right" src="https://i2.wp.com/payload.pl/wp-content/uploads/2020/07/harry3.png" width="260">
 
 Planter (also known as [Harry](https://payload.pl/harry/) or Dirty Harry) is an open source, mobile, wearable, USB evidence planter based on Raspberry Pi. Created in 2017 as a tool strictly for police officers, then redesigned and rewritten from scratch in 2019.
 
