@@ -8,7 +8,7 @@ Welcome on my Github summary page! I work in IT for almost 25 years. Previously 
 
 &nbsp;
 
-[Drive Badger](https://drivebadger.com/) in an open source platform for covert data exfiltration operations, ranging from small computers to big servers, supporting any version of Windows, Linux and Mac OS, also with Bitlocker, LUKS or Apple FileVault full disk encryption.
+[Drive Badger](https://drivebadger.com/) in an open source platform for covert data exfiltration operations, ranging from small computers to big servers, supporting any version of Windows, Linux and Mac OS, also with Bitlocker, LUKS, VeraCrypt or Apple FileVault full disk encryption.
 
 Written in 2020 strictly for law enforcement officers, private investigators, corporate Red Teams etc. (see [legal details](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(legal))), as cold attack complement to my closed source [Sherlock](https://payload.pl/sherlock/) platform.
 
