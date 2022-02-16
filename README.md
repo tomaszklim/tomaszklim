@@ -4,7 +4,7 @@ Welcome on my Github summary page! I work in IT for almost 25 years. Previously 
 
 &nbsp;
 
-<img src="https://drivebadger.com/images/custom/logo-full-for-light-bg.png" width="260">
+<img src="https://drivebadger.com/images/custom/logo-full-for-light-bg.png" width="260"> &nbsp; and &nbsp; <img src="https://funkcjonariusz.com/images/custom/logo-funkcjonariusz-v1-black.png" width="350">
 
 &nbsp;
 
@@ -12,11 +12,17 @@ Welcome on my Github summary page! I work in IT for almost 25 years. Previously 
 
 Written in 2020 strictly for law enforcement officers, private investigators, corporate Red Teams etc. (see [legal details](https://github.com/drivebadger/drivebadger/wiki/Frequently-Asked-Questions-(legal))), as cold attack complement to my closed source [Sherlock](https://payload.pl/sherlock/) platform.
 
+[Funkcjonariusz](https://funkcjonariusz.com/) is a version dedicated for Poland: translated documentation with lots of additional content specific to Poland and polish legal system.
+
 - [drivebadger/drivebadger](https://github.com/drivebadger/drivebadger) - main repository (see more Wiki links there)
+- [drivebadger/deployment-scripts](https://github.com/drivebadger/deployment-scripts) - scripts for deploying a large number of Drive Badger / Mobile Badger devices
+- [drivebadger/injectors-playground](https://github.com/drivebadger/injectors-playground) - examples, how to modify exfiltrated filesystem (injecting backdoors, access keys, evidence files etc.)
+- [drivebadger/ext-mobile-drivers](https://github.com/drivebadger/ext-mobile-drivers) - display drivers for various Pimoroni, Waveshare, Adafruit, Uctronics and Bakebit LED/LCD devices
 - [drivebadger/hook-fstab](https://github.com/drivebadger/hook-fstab) - hook for processing `/etc/fstab` files and exfiltrating NFS and SMB shares
 - [drivebadger/hook-wcxftp](https://github.com/drivebadger/hook-wcxftp) - hook for processing Total Commander `wcx_ftp.ini` files and exfiltrating FTP accounts
 - [drivebadger/exclude-windows](https://github.com/drivebadger/exclude-windows) - example exclusion repository (there are 8 such repos, each with different set of exclusions) 
 - [drivebadger/bitlocker-demo](https://github.com/drivebadger/bitlocker-demo) - example repository showing how to configure Bitlocker keys
+- [drivebadger/target-demo](https://github.com/drivebadger/target-demo) - example repository with UUIDs of target partitions for Mobile Badger
 
 
 <img src="https://serverfarmer.org/assets/custom/logo.png" width="260">
