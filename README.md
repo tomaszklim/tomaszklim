@@ -20,7 +20,7 @@ Written in 2020 strictly for law enforcement officers, private investigators, co
 - [drivebadger/ext-mobile-drivers](https://github.com/drivebadger/ext-mobile-drivers) - display drivers for various Pimoroni, Waveshare, Adafruit, Uctronics and Bakebit LED/LCD devices
 - [drivebadger/hook-fstab](https://github.com/drivebadger/hook-fstab) - hook for processing `/etc/fstab` files and exfiltrating NFS and SMB shares
 - [drivebadger/hook-wcxftp](https://github.com/drivebadger/hook-wcxftp) - hook for processing Total Commander `wcx_ftp.ini` files and exfiltrating FTP accounts
-- [drivebadger/exclude-windows](https://github.com/drivebadger/exclude-windows) - example exclusion repository (there are 8 such repos, each with different set of exclusions) 
+- [drivebadger/exclude-windows](https://github.com/drivebadger/exclude-windows) - example exclusion repository (there are 13 such repos, each with different set of exclusions) 
 - [drivebadger/bitlocker-demo](https://github.com/drivebadger/bitlocker-demo) - example repository showing how to configure Bitlocker keys
 - [drivebadger/target-demo](https://github.com/drivebadger/target-demo) - example repository with UUIDs of target partitions for Mobile Badger
 
